@@ -1,4 +1,39 @@
-#### Ongoma_portfolio
+# MessoKe Portfolio 🚀
+
+Welcome to my personal portfolio website! This project showcases who I am, my skills, my work, and how to get in touch with me.
+
+---
+
+## 🌐 Live Website
+
+🔗 Visit the live site here:  
+👉 [https://ongomaportfolio.netlify.app/](https://ongomaportfolio.netlify.app/)
+
+---
+
+## 📁 Repository
+
+You’re viewing the full source code of this website:  
+👉 [https://github.com/Ongoma6/MessoKe_Portfolio](https://github.com/Ongoma6/MessoKe_Portfolio)
+
+---
+
+## 🛠️ Built With
+
+- HTML5  
+- CSS3  
+- JavaScript
+
+---
+
+## 📬 Contact
+
+Feel free to connect with me via the contact section on the portfolio site!
+
+---
+
+> Designed and developed with ❤️ by [Ongoma Moses](https://ongomaportfolio.netlify.app/)
+> #### Ongoma_portfolio
 A personal portfolio for showcasing MessoKe's creative and technical projects.
 
 
