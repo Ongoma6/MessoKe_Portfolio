@@ -1,20 +1,19 @@
-# MessoKe Portfolio 🚀
+# 🚀 MessoKe Portfolio – Ongoma Moses
 
-Welcome to my personal portfolio website! This project showcases who I am, my skills, my work, and how to get in touch with me.
+Welcome to my personal portfolio website! This project showcases my journey as a mechanical engineer and developer, blending technical engineering expertise with digital innovation.
 
 ---
 
-## 🌐 Live Website
+## 🌐 Live Site
 
-🔗 Visit the live site here:  
-👉 [https://ongomaportfolio.netlify.app/](https://ongomaportfolio.netlify.app/)
+👉 [Visit the Website](https://ongomaportfolio.netlify.app/)
 
 ---
 
 ## 📁 Repository
 
-You’re viewing the full source code of this website:  
-👉 [https://github.com/Ongoma6/MessoKe_Portfolio](https://github.com/Ongoma6/MessoKe_Portfolio)
+This is the complete source code for my portfolio website:  
+👉 [GitHub Repo](https://github.com/Ongoma6/MessoKe_Portfolio)
 
 ---
 
@@ -24,77 +23,86 @@ You’re viewing the full source code of this website:
 - CSS3  
 - JavaScript
 
----
-
-## 📬 Contact
-
-Feel free to connect with me via the contact section on the portfolio site!
+Responsive design using modern CSS techniques.
 
 ---
 
-> Designed and developed with ❤️ by [Ongoma Moses](https://ongomaportfolio.netlify.app/)
-> #### Ongoma_portfolio
-A personal portfolio for showcasing MessoKe's creative and technical projects.
+## 👤 About Me
 
+Hi! I’m **Ongoma Moses** – a passionate **Mechanical, Robotics & Automation Engineer** with a growing expertise in **web development and automation scripting**.
 
-**Welcome to Ongoma_Portfolio**
-MessoKe is a skilled Mechanical, Robotics and Automation engineer
-in engineering field and also skilled in bash scripting and python scripting. 
+I bring hands-on experience in both engineering and digital technologies, creating solutions that are efficient, functional, and future-focused.
 
-**Key Skills:**
+---
 
-**Mechanical Engineering:**
-- Robots and Robotics Automations
-- CAD design (AutoCAD, CSWA SOLIDWORKS)
-- CNC machining and laser cutting
-- Heavy Truck Technician
-- FEA simulations (ANSYS)
-- Manufacturing processes and maintenance
-- Project management 
+## 🧠 Key Skills
 
-**PROGRAMMING LANGUAGES && FRAMEWORKS:**
-- HTML, CSS, JS, Python,MySQL, Bash Scripting
-- Node.js, Django
-- Responsive design ( CSS media queries)
-- Git and GitHub
-- Performance optimization
+### 🛠️ Mechanical & Engineering:
+- Robotics and Automation Systems  
+- CAD Design (AutoCAD, CSWA – SOLIDWORKS)  
+- CNC Machining & Laser Cutting  
+- Heavy Truck Maintenance  
+- FEA Simulation (ANSYS)  
+- Manufacturing Processes & Project Management
 
-**PROJECTS SKILLS:**
-1. **FOURTH YEAR PROJECT:** Improvement of Robotic Arm Mobility and Stability Using Mecanum wheels And Neodynium Magnet
+### 💻 Programming & Tech:
+- Languages: HTML, CSS, JavaScript, Python, MySQL, Bash  
+- Frameworks: Node.js, Django, Flask  
+- Tools: Git, GitHub, Responsive Design (CSS Media Queries)  
+- Automation & Performance Optimization  
 
-2. **Automated Machinery Control System:** Improved machinery efficiency with real-time monitoring and control using PLC, c programming and RIOS with adruino IDE.
+---
 
-3. **Responsive E-Commerce Website:** Developed a user-friendly, fast-loading e-commerce platform with Html,css and Js.
+## 📚 Education & Certifications
 
-4. **Mechanical Part Design & Simulation:** Enhanced product reliability through optimized designs using SolidWorks and ANSYS.
+🎓 **Bachelor's in Mechanical Engineering** – Kirinyaga University  
+📜 Certifications:
+- CSWA SOLIDWORKS  
+- Python Programming – GeeksforGeeks  
+- PLC and Automation
 
-5. **Portfolio Website:** Created a professional portfolio site showcasing engineering and web development projects.
+---
 
-6. **Car Rental webapp:** I developed it using flask framework for python and simple sqlite db
+## 💼 Experience
 
-**PROFESSIONAL SKILLS:**
+### 👨‍🔧 Mechanical Engineer Trainee  
+- **KenGen Industry** – Led mechanical component design & development  
+- **GEBA Engineering Ltd** – Assisted in rolling operations & maintenance
 
-- **MECHANICAL ENGINEER TRAINEE AT KENGEN INDUSTRY:** Led design and development of mechanical components.
+### 🧑‍💻 Python Developer  
+- **GeeksforGeeks** – Focused on automation and scripting projects
 
-- **MECHANICAL ENGINEER TRAINEE AT GEBA ENGINEERING LTD:** Help in rolling operation and Maintenance 
-   
-- **PYTHON DEVELOPER AT GEEKSFORGEEKS:** Learner more skill to do with python mostly with automation and scripting.
+---
 
-**EDUCATIONS:**
+## 💡 Featured Projects
 
-- **BACHELOR'S DEGREE OF TECHNOLOGY IN MECHANICAL ENGINEERING:**  Kirinyaga University
+1. **Final Year Project:**  
+   *Robotic Arm with Mecanum Wheels & Neodymium Magnet – improved mobility and stability*
 
-- **CERTIFICATIONS:**
- CSWA SOLIDWORK Certification
- PYTHON PROGRAMMING at geeksforgeeks
- PLC and AUTOMATION CERTIFICATION  
+2. **Automated Machinery Control System:**  
+   *Real-time monitoring using PLC, C programming, and Arduino IDE*
 
-**CONTACT ONGOMA:** 
- 
-**PHONE NUMBER:**0703214861, 0707189245
+3. **E-commerce Website:**  
+   *Fast, responsive frontend using HTML, CSS & JavaScript*
 
-**EMAIL:** ongomamosesomondi@gmail.com
+4. **Mechanical CAD & Simulation:**  
+   *Optimized engineering components in SOLIDWORKS & ANSYS*
 
-**IG:** @kyle_the_coder, @mLcoding, 
+5. **Flask Car Rental Web App:**  
+   *Developed with Flask and SQLite*
 
-**GITHUB:** ongoma6
+6. **This Portfolio Site:**  
+   *Showcasing all projects and skills in one place*
+
+---
+
+## 📬 Contact Me
+
+📱 **Phone:** 0703214861 / 0707189245  
+📧 **Email:** ongomamosesomondi@gmail.com  
+🔗 **Instagram:** [@kyle_the_coder](https://instagram.com/kyle_the_coder) | [@mLcoding](https://instagram.com/mLcoding)  
+🐙 **GitHub:** [ongoma6](https://github.com/Ongoma6)
+
+---
+
+> Designed and developed with ❤️ by Ongoma Moses – blending engineering precision with digital creativity.
