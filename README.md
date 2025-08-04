@@ -21,7 +21,6 @@ This is the complete source code for my portfolio website:
 
 - HTML5  
 - CSS3  
-- JavaScript
 
 Responsive design using modern CSS techniques.
 
